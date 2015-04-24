@@ -1,0 +1,35 @@
+/*Name:	  Maeda Hanafi
+ 	 Course:	   543
+ 	 Assignment:	   #2
+*/
+body
+{
+	background-color:#9999FF;
+}
+table
+{
+	text-decoration:underline;
+	font-family:"Times New Roman";
+	font-size:20px;
+	border-color:darkblue;
+	background-color:9999FF;
+	border-width: 10px; 	
+	font-weight:bold;
+	border: 2px solid darkblue;
+	
+}
+a{
+	font-weight:bold;
+}
+a:link {text-decoration:none;}    /* unvisited link */
+a:visited {text-decoration:none;} /* visited link */
+a:hover {text-decoration:underline;}   /* mouse over link */
+a:active {text-decoration:underline;}  /* selected link */
+div{
+	font-style:italic;
+}
+#caption{
+	background-color:lightblue;
+	float:center;
+}
+
